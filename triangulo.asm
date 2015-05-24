@@ -1,4 +1,4 @@
-; comentário
+; comentario
 SECTION TEXT
 		INPUT		B
 		INPUT		H
